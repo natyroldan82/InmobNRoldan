@@ -2,7 +2,7 @@
 *{
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
+   
 }
 html
 {
@@ -303,11 +303,13 @@ padding: auto;
      grid-template-columns: repeat(2, 1fr);
 
  } 
+
  .carousel-item{
      height:550px;
      padding: 1rem;
  }
- .col-md-6{
-    text-align: center;
-    
- }
+ 
+
+
+ 
+
